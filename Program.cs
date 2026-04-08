@@ -7,4 +7,5 @@ class Program
         Console.WriteLine("Hello, World!");
     }// Юзыкайн П.Э. Ам-1-25
     //new_feature
+    //solve task2
 }
