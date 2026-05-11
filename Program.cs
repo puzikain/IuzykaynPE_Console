@@ -8,4 +8,5 @@ class Program
     }// Юзыкайн П.Э. Ам-1-25
     //new_feature
     //solve task2
+    //solve task4
 }
